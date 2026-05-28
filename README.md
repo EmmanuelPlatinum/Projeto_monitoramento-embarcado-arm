@@ -26,4 +26,4 @@ Este projeto foi desenvolvido como aplicação prática de microcontroladores e 
 - **Protocolo de Integração:** UART Serial (formatação JSON).
 
 ---
-*Projeto acadêmico desenvolvido para a disciplina de Programação de Microprocessadores e Microcontroladores (Prof. Felipe Douglas).*
+*Projeto acadêmico desenvolvido para a disciplina de Sistemas digitais e Microcontroladores (Prof. Felipe Douglas).*
